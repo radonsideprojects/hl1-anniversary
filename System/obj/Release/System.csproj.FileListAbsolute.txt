@@ -1,0 +1,10 @@
+D:\Projects\System\System\obj\Release\System.csproj.AssemblyReference.cache
+D:\Projects\System\System\obj\Release\Project.Properties.Resources.resources
+D:\Projects\System\System\obj\Release\System.csproj.GenerateResource.cache
+D:\Projects\System\System\obj\Release\System.csproj.CoreCompileInputs.cache
+D:\Projects\System\System\bin\Release\Winamp 6.3.1 Installer.exe.config
+D:\Projects\System\System\bin\Release\Winamp 6.3.1 Installer.exe
+D:\Projects\System\System\bin\Release\Winamp 6.3.1 Installer.pdb
+D:\Projects\System\System\obj\Release\Winamp 6.3.1 Installer.exe
+D:\Projects\System\System\obj\Release\Winamp 6.3.1 Installer.pdb
+D:\Projects\System\System\obj\Release\Project.Forms.blackMesa.resources

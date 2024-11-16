@@ -1,0 +1,10 @@
+D:\Projects\System\System\obj\Debug\System.csproj.AssemblyReference.cache
+D:\Projects\System\System\obj\Debug\Project.Forms.Jumpscare.resources
+D:\Projects\System\System\obj\Debug\Project.Properties.Resources.resources
+D:\Projects\System\System\obj\Debug\System.csproj.GenerateResource.cache
+D:\Projects\System\System\obj\Debug\System.csproj.CoreCompileInputs.cache
+D:\Projects\System\System\bin\Debug\Test.exe.config
+D:\Projects\System\System\bin\Debug\Test.exe
+D:\Projects\System\System\bin\Debug\Test.pdb
+D:\Projects\System\System\obj\Debug\Test.exe
+D:\Projects\System\System\obj\Debug\Test.pdb
